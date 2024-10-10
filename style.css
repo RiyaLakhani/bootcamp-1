@@ -1,0 +1,32 @@
+p {
+    color: #6D466B;
+    text-align: center;
+
+}
+
+body {
+    background-color: #C6DBF0;
+}
+
+
+h1 {
+    text-align: center;
+    color: #6D466B;
+}
+
+
+img{
+    display: block;
+    margin: auto;
+    width: 20%;
+    border-radius: 50%;
+}
+
+.section {
+    margin-bottom: 20px; 
+}
+
+.section2{
+    color: #0a0e58;
+
+}
